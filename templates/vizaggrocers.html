@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>vizag grocers</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='websites.css') }}">
+</head>
+<body>
+       <h1>list of vegetables in vizag grocers</h1>
+{% block content %}
+    <div id="container">
+     {% for i in grocers.values() %}
+        {% for j in i %}
+           <a href={{j.Title_URL}}>
+        <figure>
+            <img src={{j.Image}} width="200px" height="200px">
+            <figcaption>{{j.Title}},{{j.Price}}</figcaption>
+        </figure>
+        </a>
+        {% endfor %}
+     {% endfor %}
+    </div>
+{% endblock %}
+</body>
+</html>
