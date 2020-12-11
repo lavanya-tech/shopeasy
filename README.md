@@ -17,3 +17,17 @@ the app's data set.
 
 ## Category
 > Regular Vegetables
+
+## Features
+> Compares each vegetable price among various grocery marts.
+
+> compares total cart price among various gorcery marts.
+ 
+## References
+> Flask Documentation
+
+> Stack Overow,w3 schools - CSS
+
+> https://docs.python.org/3/library/json.html
+
+> https://helpcenter.octoparse.com/hc/en-us/categories/360000890332-Building-Tasks
