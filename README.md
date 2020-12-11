@@ -8,7 +8,10 @@ the app's data set.
 
 ## Technology Stack
 > Flask
+
 > HTML5,CSS and JavaScript
+
 > JSON
+
 > Octoparse
 
