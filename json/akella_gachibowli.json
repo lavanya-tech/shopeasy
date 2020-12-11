@@ -1,0 +1,67 @@
+{
+  "Akella": [
+    {
+      "Title": "Onion",
+      "Image": "https://vizaggrocers.com/28-home_default/onion-ullipaya-pyaaj.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 29",
+      "qty": "1000g"
+    },
+    {
+      "Title": "Potato",
+      "Image": "https://vizaggrocers.com/30-home_default/vg-potato-bangaladumpa-aaloo.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 42",
+      "qty": "1000g"
+    },
+    {
+      "Title": "Tomato",
+      "Image": "https://vizaggrocers.com/24-home_default/tamato-tamaatar.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 58",
+      "qty": "1000g"
+    },
+    {
+      "Title": "Capsicum",
+      "Image": "https://vizaggrocers.com/57-home_default/capsicum-shimalamirch.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 35",
+      "qty": "500g"
+    },
+    {
+      "Title": "Ladies Finger",
+      "Image": "https://vizaggrocers.com/53-home_default/ladiesfinger-bendakaya-bhindee.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 58",
+      "qty": "1000g"
+    },
+    {
+      "Title": "Cucumber",
+      "Image": "https://vizaggrocers.com/36-home_default/cucumber-dosakaya-kheera.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 48",
+      "qty": "1000g"
+    },
+     {
+      "Title": "Cabbage",
+      "Image": "https://vizaggrocers.com/47-home_default/cabbage-Kyabeji-pattagobhee.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 25",
+      "qty": "1 pc"
+    },
+    {
+      "Title": "Bitter Gourd",
+      "Image": "https://vizaggrocers.com/37-home_default/bitter-guard-kakarakaya-karela.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 64",
+      "qty": "1000g"
+    },
+    {
+      "Title": "Beetroot",
+      "Image": "https://vizaggrocers.com/33-home_default/beetroot-chukandar.jpg",
+      "Title_URL": "https://www.dunzo.com/hyderabad/akella-agro-gachibowli",
+      "Price": "Rs 38",
+      "qty": "1000g"
+    }
+  ]
+}
